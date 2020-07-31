@@ -1,0 +1,12 @@
+{
+    "database" : {
+        "host":"127.0.0.1",
+        "port":"3306",
+        "user":"root",
+        "password":"2wsx1qaz",
+        "database":"test"
+    },
+    "node" : {
+        "nodes" : ["node1", "node2", "node3", "node4"]
+    }
+}
